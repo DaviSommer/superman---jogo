@@ -1,9 +1,8 @@
 # Superman x Aliens
 
 ## Desenvolvedor
-**Nome:** Rodrigo  
-**RA:** [SEU RA AQUI]
-
+**Nome:** Davi Sommer Maia de Bem  
+**RA:** 1138240
 ---
 
 ## 🕹️ Descrição do Jogo
